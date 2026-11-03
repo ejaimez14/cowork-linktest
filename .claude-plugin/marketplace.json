@@ -1,0 +1,8 @@
+{
+  "name": "cowork-linktest",
+  "owner": { "name": "Erick" },
+  "plugins": [
+    { "name": "linktest-a", "source": "./plugins/linktest-a", "description": "Throwaway test for shared files" },
+    { "name": "linktest-b", "source": "./plugins/linktest-b", "description": "Throwaway test for shared files" }
+  ]
+}
